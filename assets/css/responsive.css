@@ -1,0 +1,38 @@
+@media screen and (max-width:980px) {
+    *{
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+ 
+    .main-content{
+          width: 75%;
+          margin-left: 40px;
+          margin-top: 25px;
+      }
+    
+    .flex-container{
+          width: 100%;
+    }
+    
+    .heading{
+          display: flexbox;
+          width: 100%;
+      }
+
+    header{
+          flex: 25%;
+      }
+
+    nav{
+          flex: 75%;
+      }
+      
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px){
+
+}
