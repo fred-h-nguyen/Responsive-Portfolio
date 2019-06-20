@@ -65,6 +65,7 @@ footer {
 
 .flex-container2{
     position: relative;
+    widows: 960px;
 }
 
 .topcontent{
