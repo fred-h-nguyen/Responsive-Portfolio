@@ -4,7 +4,6 @@
 }
 
 body{
-    width: 960px;
     color: #777777;
     background-image: url(../images/background.png);
    
@@ -68,7 +67,8 @@ footer {
 }
 
 .flex-container{
-    position: relative;   
+    position: relative;  
+    width: 960px; 
 }
 
 .topcontent{
