@@ -82,13 +82,10 @@ footer {
 .flex-container{
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-around
 }
 .proj1 {
-    flex: auto;
-    flex-grow: 0;
-    flex-shrink: 0;
-    padding: 15px;
-   
+    margin: 10px 10px 10px 10px;
 }
 
 a {
