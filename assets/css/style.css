@@ -71,9 +71,6 @@ footer {
     width: 960px; 
 }
 
-.topcontent{
-    flex: 1 0 auto;
-}
 
 .footer {
     position: fixed;

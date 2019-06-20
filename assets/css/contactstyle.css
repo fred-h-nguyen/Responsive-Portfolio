@@ -85,3 +85,15 @@ a:hover {
     font-weight: bolder;
     color:#4aaaa5;
 }
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+footer {
+    background-color: #666666;
+    border-top: #4aaaa5 solid 3px;
+}
