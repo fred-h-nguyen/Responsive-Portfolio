@@ -73,4 +73,45 @@
 
 @media screen and (max-width: 640px){
 
+    .container{
+        width: 100%;
+    }
+
+    .heading {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+
+    header {
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+
+    nav {
+        float: none;
+        flex: 100%;
+        text-align: center;
+        margin: 0;
+    }
+
+    .main-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    h1 {
+        width: 100%;
+    }
+
+    .profilepic {
+        float: none;
+        width: 300px;
+    }
+
+    .footer{
+        padding: 15px;
+    }
 }
