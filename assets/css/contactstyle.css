@@ -4,7 +4,6 @@
 }
 
 body{
-    width: 960px;
     color: #777777;
     background-image: url(../images/background.png);
 }
@@ -63,8 +62,6 @@ h1 {
 #message{
     padding: 5px;
     margin: 5px;
-    width: 850px;
-    height: 150px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -96,4 +93,19 @@ a:hover {
 footer {
     background-color: #666666;
     border-top: #4aaaa5 solid 3px;
+}
+
+.container {
+    position: relative;
+    width: 960px;
+}
+
+.formbox {
+    align-content: flex-start;
+    width: 100%;
+}
+
+textarea {
+    max-width: 500px;
+    width: 500px;
 }
