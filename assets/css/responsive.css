@@ -114,4 +114,11 @@
     .footer{
         padding: 15px;
     }
+    .footer.portfoliofoot {
+        display:none;
+    }
+
+    .flex-container {
+        justify-content: center;
+    }
 }

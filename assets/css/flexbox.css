@@ -64,7 +64,7 @@ footer {
 
 .container{
     position: relative;
-    widows: 960px;
+    width: 960px;
 }
 
 .footer {
