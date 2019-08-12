@@ -95,6 +95,21 @@ footer {
     border-top: #4aaaa5 solid 3px;
 }
 
+#footerBox{
+    display: flex;
+    width:40%;
+    align-items: center;
+    color: white;
+}
+#email{
+    color:white;
+}
+
+.linkImg {
+    width:60px;
+    height: 60px;
+}
+
 .container {
     position: relative;
     width: 960px;
@@ -109,3 +124,10 @@ textarea {
     max-width: 250px;
     width: 250px;
 }
+
+#email:hover {
+    text-decoration: underline;
+    font-weight: bolder;
+    color:#4aaaa5;
+}
+   

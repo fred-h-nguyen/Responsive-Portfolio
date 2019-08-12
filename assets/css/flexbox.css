@@ -84,6 +84,20 @@ footer {
     width: 250px;
 }
 
+#footerBox{
+    display: flex;
+    width:33%;
+    align-items: center;
+    color: white;
+}
+#email{
+    color:white;
+}
+
+.linkImg {
+    width:60px;
+    height: 60px;
+}
 
 a {
     text-decoration: none;
@@ -96,3 +110,10 @@ a:hover {
     font-weight: bolder;
     color:#4aaaa5;
 }
+
+#email:hover {
+    text-decoration: underline;
+    font-weight: bolder;
+    color:#4aaaa5;
+}
+   
