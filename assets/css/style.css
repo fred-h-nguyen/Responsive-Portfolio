@@ -79,6 +79,16 @@ footer {
     width: 100%;
 }
 
+#footerBox{
+    display: flex;
+    width:33%;
+}
+
+.linkImg {
+    width:60px;
+    height: 60px;
+}
+
 a {
     text-decoration: none;
     color: #777777;
