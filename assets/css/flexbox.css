@@ -103,6 +103,10 @@ footer {
     height: 60px;
 }
 
+.linkBox {
+    display: flex;
+}
+
 a {
     text-decoration: none;
     color: #777777;
